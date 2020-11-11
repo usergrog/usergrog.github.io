@@ -4,7 +4,7 @@
       "available_name": "1.0.14", 
       "notify_days": 5,
       "priority": "medium",
-      "min_version": 32
+      "min_version": 31
     },
     "tvos": {
       "available_version": 200,
