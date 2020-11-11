@@ -1,16 +1,26 @@
 {
     "android-tv": {
-      "available_version": 34,
-      "available_name": "1.0.14", 
+      "available_version": {
+        "code": 34,
+        "name": "1.0.14"
+      },
       "notify_days": 5,
       "priority": "medium",
-      "min_version": 31
+      "min_version": {
+        "code": 31,
+        "name": "1.0.10"
+      }
     },
     "tvos": {
-      "available_version": 200,
-      "available_name": "1.0.30", 
-      "notify_days": 3,
-      "priority": "high",
-      "min_version": 89
+      "available_version": {
+        "code": 34,
+        "name": "1.0.14"
+      },
+      "notify_days": 5,
+      "priority": "medium",
+      "min_version": {
+        "code": 32,
+        "name": "1.0.10"
+      }
     }
-}
+  }
