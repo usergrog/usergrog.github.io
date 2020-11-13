@@ -1,7 +1,7 @@
 {
     "android-tv": {
       "available_version": {
-        "code": 34,
+        "code": 30,
         "name": "1.0.14"
       },
       "notify_days": 5,
