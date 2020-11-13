@@ -4,10 +4,10 @@
         "code": 34,
         "name": "1.0.14"
       },
-      "notify_days": 0,
+      "notify_days": 5,
       "priority": "medium",
       "min_version": {
-        "code": 31,
+        "code": 20,
         "name": "1.0.10"
       }
     },
