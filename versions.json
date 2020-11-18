@@ -13,14 +13,14 @@
     },
     "tvos": {
       "available_version": {
-        "code": 34,
-        "name": "1.0.14"
+        "code": 21,
+        "name": "1.0.5"
       },
       "notify_days": 5,
       "priority": "medium",
       "min_version": {
-        "code": 32,
-        "name": "1.0.10"
+        "code": 0,
+        "name": "1.0.0"
       }
     }
   }
