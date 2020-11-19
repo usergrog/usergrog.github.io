@@ -1,14 +1,14 @@
 {
     "android-tv": {
       "available_version": {
-        "code": 35,
-        "name": "1.0.14"
+        "code": 26,
+        "name": "1.0.13"
       },
       "notify_days": 5,
       "priority": "medium",
       "min_version": {
-        "code": 20,
-        "name": "1.0.10"
+        "code": 25,
+        "name": "1.0.12"
       }
     },
     "tvos": {
