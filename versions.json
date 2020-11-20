@@ -1,8 +1,8 @@
 {
     "android-tv": {
       "available_version": {
-        "code": 100,
-        "name": "1.0.100"
+        "code": 0,
+        "name": "1.0.0"
       },
       "notify_days": 5,
       "priority": "medium",
