@@ -2,12 +2,12 @@
     "android-tv": {
       "available_version": {
         "code": 43,
-        "name": "1.0.13"
+        "name": "1.0.15"
       },
       "notify_days": 5,
       "priority": "medium",
       "min_version": {
-        "code": 42,
+        "code": 40,
         "name": "1.0.12"
       }
     },
