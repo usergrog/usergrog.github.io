@@ -4,7 +4,7 @@
         "code": 43,
         "name": "1.0.15"
       },
-      "notify_days": 5,
+      "notify_days": 0,
       "priority": "medium",
       "min_version": {
         "code": 40,
