@@ -13,13 +13,13 @@
     },
     "tvos": {
       "available_version": {
-        "code": 27,
+        "code": 21,
         "name": "1.0.5"
       },
       "notify_days": 5,
       "priority": "medium",
       "min_version": {
-        "code": 0,
+        "code": 10,
         "name": "1.0.0"
       }
     }
