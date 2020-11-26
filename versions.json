@@ -13,7 +13,7 @@
     },
     "tvos": {
       "available_version": {
-        "code": 21,
+        "code": 27,
         "name": "1.0.5"
       },
       "notify_days": 5,
