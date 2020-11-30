@@ -19,8 +19,8 @@
       "notify_days": 5,
       "priority": "medium",
       "min_version": {
-        "code": 30,
-        "name": "1.0.30"
+        "code": 0,
+        "name": "1.0.0"
       }
     }
   }
