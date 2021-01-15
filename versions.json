@@ -13,8 +13,8 @@
     },
     "tvos": {
       "available_version": {
-        "code": 21,
-        "name": "1.0.5"
+        "code": 32,
+        "name": "1.0.9"
       },
       "notify_days": 5,
       "priority": "medium",
