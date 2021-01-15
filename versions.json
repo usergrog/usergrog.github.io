@@ -5,7 +5,7 @@
         "name": "1.0.13"
       },
       "notify_days": 5,
-      "priority": "medium",
+      "priority": "high",
       "min_version": {
         "code": 0,
         "name": "1.0.0"
