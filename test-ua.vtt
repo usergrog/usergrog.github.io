@@ -1,0 +1,51 @@
+WEBVTT
+
+STYLE
+::cue(u) {
+  background-image: linear-gradient(45deg,red,violet);
+}
+
+1
+00:00:00.000 --> 00:00:03.000 line:50%
+<i>This is a WebVTT demo.</i>
+
+2
+00:00:03.000 --> 00:00:06.000
+<b>WebVTT supports many different kinds of formatting.</b>
+
+3
+00:00:06.000 --> 00:00:09.000 line:0%
+The text can be normal, like this.
+
+4
+00:00:09.000 --> 00:00:12.000 vertical:lr
+Or vertical.
+
+5
+00:00:12.000 --> 00:00:15.000 line:100%
+You can move it vertically.
+
+6
+00:00:15.000 --> 00:00:18.000 vertical:rl line:0
+Or horizontally.
+
+7
+00:00:18.000 --> 00:00:21.000
+You can even colorize captions.
+
+8
+00:00:21.000 --> 00:00:24.000 size:20
+Or change its size.
+
+9
+00:00:24.000 --> 00:00:27.000
+<ruby>Ruby text is supported as well.<rt>This text will be above the other text.
+
+10
+00:00:27.000 --> 00:00:30.000 size:40%
+Size can be adjusted as well.
+
+11
+00:00:30.000 --> 00:00:37.000
+- [Birds chirping]
+- It's a beautiful day!
