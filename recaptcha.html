@@ -11,7 +11,7 @@
     </form>
     <script>
       function captchaCallback(response){
-        //console.log(response);
+        console.log(response);
         if(typeof Captcha!=="undefined"){
           Captcha.postMessage(response);
         }
