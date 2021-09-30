@@ -1,32 +1,41 @@
 <html>
-  <head>
-    <title>Wallet reCAPTCHA</title>
-    <script type="text/javascript">
-      var onloadCallback = function() {
-        grecaptcha.render('html_element', {
-          'sitekey' : '6Lcy2SITAAAAAAMmXEQrH0-8RfSt-008SdlB7kV8',
-          'callback': 'captchaCallback',
-          'render': 'explicit'
-        });
-      };
-    </script>
-  </head>
-  <body>
-    <form action="?" method="POST">
-      <div id="html_element"></div>
-      <br>
-      <input type="submit" value="Submit">
-    </form>
-    <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit"
-        async defer>
-    </script>
-    <script>
-      function captchaCallback(response){
-        console.log(response);
-        if(typeof Captcha!=="undefined"){
-          Captcha.postMessage(response);
-        }
+
+<head>
+  <title>Wallet reCAPTCHA</title>
+  <script type="text/javascript">
+    var onloadCallback = function () {
+      grecaptcha.render('html_element', {
+        'sitekey': '6Lcy2SITAAAAAAMmXEQrH0-8RfSt-008SdlB7kV8',
+        'callback': 'captchaCallback'
+      });
+    };
+  </script>
+  <style type="text/css">
+    .g-recaptcha {
+      transform: scale(0.77);
+      -webkit-transform: scale(0.77);
+      transform-origin: 0 0;
+      -webkit-transform-origin: 0 0;
+    }
+  </style>
+</head>
+
+<body>
+  <form action="?" method="POST">
+    <div id="html_element"></div>
+    <br>
+    <input type="submit" value="Submit">
+  </form>
+  <script src="https://www.google.com/recaptcha/api.js?onload=onloadCallback&render=explicit" async defer>
+  </script>
+  <script>
+    function captchaCallback(response) {
+      console.log(response);
+      if (typeof Captcha !== "undefined") {
+        Captcha.postMessage(response);
       }
-    </script>
-  </body>
+    }
+  </script>
+</body>
+
 </html>
