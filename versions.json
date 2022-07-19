@@ -25,7 +25,7 @@
   },
   "android": {
     "available_version": {
-      "code": 1209,
+      "code": 1309,
       "name": "1.9.1"
     },
     "notify_days": 5,
