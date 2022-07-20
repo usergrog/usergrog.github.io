@@ -29,7 +29,7 @@
       "name": "1.9.1"
     },
     "notify_days": 5,
-    "priority": "high",
+    "priority": "medium",
     "min_version": {
       "code": 1183,
       "name": "1.9.0"
@@ -41,7 +41,7 @@
       "name": "3.23.2"
     },
     "notify_days": 5,
-    "priority": "high",
+    "priority": "medium",
     "min_version": {
       "code": 756,
       "name": "3.23"
