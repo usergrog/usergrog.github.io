@@ -25,14 +25,14 @@
   },
   "android": {
     "available_version": {
-      "code": 1274,
-      "name": "1.9.3"
+      "code": 1354,
+      "name": "2.0.0"
     },
     "notify_days": 3,
     "priority": "medium",
     "min_version": {
-      "code": 1209,
-      "name": "1.9.1"
+      "code": 1354,
+      "name": "2.0.0"
     }
   },
   "ios": {
