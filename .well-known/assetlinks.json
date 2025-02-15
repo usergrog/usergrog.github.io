@@ -1,0 +1,9 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_flutter_app",
+    "package_name": "com.furryfitness.app.dev",
+    "sha256_cert_fingerprints":
+    ["63:5F:7F:F1:FA:E1:7E:6D:86:E6:E0:1B:AA:9C:73:B8:7A:D2:0D:22:5B:2F:EF:CB:D3:EB:EB:59:FE:68:32:DF", "F5:51:79:49:99:22:DC:29:E5:CC:D4:AB:B6:09:21:9A:56:0C:21:1D:D3:19:BC:29:E5:9E:67:D9:B0:BD:56:29"]
+  }
+}]
