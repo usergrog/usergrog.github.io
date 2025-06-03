@@ -5,7 +5,7 @@
       {
         "appIDs": [
           "9Z5H8ZRHMF.com.furryfitness.app.dev",
-          "9Z5H8ZRHMF.com.furryfitness.app.alpha"
+          "9Z5H8ZRHMF.com.furryfitness.app"
         ],
         "paths": [
           "*"
@@ -21,7 +21,7 @@
   "webcredentials": {
     "apps": [
       "9Z5H8ZRHMF.com.furryfitness.app.dev",
-      "9Z5H8ZRHMF.com.furryfitness.app.alpha"
+      "9Z5H8ZRHMF.com.furryfitness.app"
     ]
   }
 }
