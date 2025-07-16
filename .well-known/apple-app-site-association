@@ -12,7 +12,8 @@
         ],
         "components": [
           {
-            "/": "/article*"
+            "/": "/article",
+            "?": { "id": "*" }
           }
         ]
       }
