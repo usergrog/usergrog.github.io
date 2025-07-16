@@ -8,7 +8,8 @@
       "package_name": "com.furryfitness.app.dev",
       "sha256_cert_fingerprints": [
         "63:5F:7F:F1:FA:E1:7E:6D:86:E6:E0:1B:AA:9C:73:B8:7A:D2:0D:22:5B:2F:EF:CB:D3:EB:EB:59:FE:68:32:DF",
-        "F5:51:79:49:99:22:DC:29:E5:CC:D4:AB:B6:09:21:9A:56:0C:21:1D:D3:19:BC:29:E5:9E:67:D9:B0:BD:56:29"
+        "F5:51:79:49:99:22:DC:29:E5:CC:D4:AB:B6:09:21:9A:56:0C:21:1D:D3:19:BC:29:E5:9E:67:D9:B0:BD:56:29",
+        "E4:DD:AE:C3:6B:41:16:8C:EB:B0:A5:06:0A:5B:AA:43:3D:6B:C1:76:1E:20:C6:2A:FB:A8:93:94:84:85:F1:C0"
       ]
     }
   },
@@ -21,7 +22,8 @@
       "package_name": "com.furryfitness.app",
       "sha256_cert_fingerprints": [
         "63:5F:7F:F1:FA:E1:7E:6D:86:E6:E0:1B:AA:9C:73:B8:7A:D2:0D:22:5B:2F:EF:CB:D3:EB:EB:59:FE:68:32:DF",
-        "F5:51:79:49:99:22:DC:29:E5:CC:D4:AB:B6:09:21:9A:56:0C:21:1D:D3:19:BC:29:E5:9E:67:D9:B0:BD:56:29"
+        "F5:51:79:49:99:22:DC:29:E5:CC:D4:AB:B6:09:21:9A:56:0C:21:1D:D3:19:BC:29:E5:9E:67:D9:B0:BD:56:29",
+        "4C:56:70:20:DD:49:BF:27:AB:73:23:30:CC:B3:53:B4:89:82:73:D5:93:7B:DF:51:BD:4B:B8:D8:31:A1:4C:88"
       ]
     }
   }
