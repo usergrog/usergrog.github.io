@@ -3,12 +3,12 @@
     <channel>
         <title>FurryFitness App - Appcast</title>
         <item>
-            <title>Version 0.1.30</title>
-            <description>Minor updates and improvements.</description>
-            <pubDate>Sun, 19 May 2025 12:00:00 +0000</pubDate>
-            <sparkle:minimumSystemVersion>0.1.29</sparkle:minimumSystemVersion>
-            <enclosure url="https://play.google.com/store/apps/details?id=com.furryfitness.app.dev" sparkle:version="0.1.30" sparkle:os="android" />
-            <enclosure url="https://apps.apple.com/app/id6593689768" sparkle:version="0.1.30" sparkle:os="ios" />
+            <title>Version 1.0.4</title>
+            <description>Bug fixes</description>
+            <pubDate>Thu, 17 Jul 2025 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>1.0.0</sparkle:minimumSystemVersion>
+            <enclosure url="https://play.google.com/store/apps/details?id=com.furryfitness.app" sparkle:version="1.0.0" sparkle:os="android" />
+            <enclosure url="https://apps.apple.com/app/furry-fitness/id6746696348" sparkle:version="1.0.0" sparkle:os="ios" />
         </item>
     </channel>
 </rss>
