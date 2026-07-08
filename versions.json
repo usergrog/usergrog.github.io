@@ -29,7 +29,7 @@
       "name": "2.0.0"
     },
     "notify_days": 3,
-    "priority": "medium",
+    "priority": "high",
     "min_version": {
       "code": 1354,
       "name": "2.0.0"
