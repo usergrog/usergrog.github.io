@@ -7,7 +7,7 @@
     "notify_days": 5,
     "priority": "medium",
     "min_version": {
-      "code": 1,
+      "code": 0,
       "name": "1.0.0"
     }
   },
