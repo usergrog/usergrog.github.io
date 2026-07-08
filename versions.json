@@ -37,14 +37,14 @@
   },
   "ios": {
     "available_version": {
-      "code": 793,
-      "name": "3.23.5"
+      "code": 798,
+      "name": "4.0.26"
     },
     "notify_days": 5,
     "priority": "medium",
     "min_version": {
-      "code": 793,
-      "name": "3.23.5"
+      "code": 948,
+      "name": "4.0.26"
     }
   }
 }
