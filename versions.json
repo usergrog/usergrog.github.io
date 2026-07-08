@@ -41,7 +41,7 @@
       "name": "4.0.26"
     },
     "notify_days": 5,
-    "priority": "medium",
+    "priority": "high",
     "min_version": {
       "code": 948,
       "name": "4.0.26"
